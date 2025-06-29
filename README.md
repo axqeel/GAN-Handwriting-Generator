@@ -1,4 +1,4 @@
-# Generative Adversarial Network (GAN) on MNIST using PyTorch
+# Generative Adversarial Network (GAN) Handwriting Generator on MNIST using PyTorch
 
 This repository implements a **Generative Adversarial Network (GAN)** from scratch using **PyTorch** to generate realistic **handwritten digit images** using the **MNIST dataset**.
 
